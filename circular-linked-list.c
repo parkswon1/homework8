@@ -29,7 +29,7 @@ int main()
 	char command; //command받아올 char형 변수
 	int key; //int형 key변수
 	listNode* headnode=NULL; //listNode형 포인터 headnode를 생성하고 NULL로 초기화함
-
+	printf("[----- [Park Seok Won] [2017018003] -----]");
 	do{
 		printf("----------------------------------------------------------------\n");
 		printf("                  Doubly Circular Linked List                   \n");
